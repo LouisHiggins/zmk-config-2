@@ -1,0 +1,6 @@
+if SHIELD_RIFFSTICK
+
+config ZMK_KEYBOARD_NAME
+	default "RiffStick"
+
+endif
