@@ -16,6 +16,7 @@
                 &kp D
                 &kp Z
                 &kp X
+		&kp B
                 &mo 1
             >;
         };
@@ -23,6 +24,7 @@
         bt_layer {
 	    bindings = <
                 &none
+		&none
                 &none
                 &bootloader
                 &none
